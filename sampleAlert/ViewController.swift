@@ -14,7 +14,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
+    @IBAction func tapCheck(_ sender: UIButton) {
+        
+      9
+//        handler は処理に渡す　nilは無処理の意味
+//
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
@@ -22,4 +28,3 @@ class ViewController: UIViewController {
 
 
 }
-
